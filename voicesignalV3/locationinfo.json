@@ -1,50 +1,28 @@
 [
   {
     "uuid": "1C5B2C23-5342-5254-5858-231225000001",
-    "major_high": 1,
+    "major_high_byte": 1,
     "city": "台南市",
     "coordinates": "22.990998,120.187082",
     "is_complicated": 0,
-    "crosswalks": [9,9,9,9],
-    "road_name": [
-      "中華西路二段",
-      "南島路"
-    ],
-    "road_width": [
-      "路寬6車道",
-      "路寬4車道"
-    ],
-    "position_name": [
-      "市議會附近",
-      "籃球場附近",
-      "東北側",
-      "東南側"
-    ],
-    "min_rssi": [-120,-120,-120,-120],
+    "crosswalks": "9,9,9,9",
+    "road_names": "中華西路二段,南島路",
+    "road_widths": "路寬6車道,路寬4車道",
+    "position_names": "市議會附近,籃球場附近,東北側,東南側",
+    "min_rssi": -120,
     "update_time": "2024-01-05 16:12:00"
   },
   {
     "uuid": "1C5B2C23-5342-5254-5858-231225000001",
-    "major_high": 2,
+    "major_high_byte": 2,
     "city": "嘉義縣",
     "coordinates": "23.518423,120.440799",
     "is_complicated": 0,
-    "crosswalks": [9,9,9,9],
-    "road_name": [
-      "建國路三段",
-      "長安街"
-    ],
-    "road_width": [
-      "路寬34公尺",
-      "路寬14公尺"
-    ],
-    "position_name": [
-      "Toyota附近",
-      "民雄車行附近",
-      "早餐店附近",
-      "加油站附近"
-    ],
-    "min_rssi": [-120,-120,-120,-120],
+    "crosswalks": "9,9,9,9",
+    "road_names": "建國路三段,長安街",
+    "road_widths": "路寬34公尺,路寬14公尺",
+    "position_names": "Toyota附近,民雄車行附近,早餐店附近,加油站附近",
+    "min_rssi": -120,
     "update_time": "2024-08-28 13:14:26"
   }
 ]

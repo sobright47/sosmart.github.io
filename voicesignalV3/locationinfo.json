@@ -6,11 +6,11 @@
     "coordinates": "22.990998,120.187082",
     "is_complicated": 0,
     "crosswalks": "9,12,6,3",
-    "road_names": "中華西路二段,南島路,中華西路二段,南島路,",
-    "road_widths": "寬6車道,寬4車道,寬6車道,寬4車道",
-    "position_names": "市議會附近,籃球場附近,東北側,東南側",
+    "road_names": "南島路,中華西路二段,南島路,中華西路二段",
+    "road_widths": "寬4車道,寬6車道,寬4車道,寬6車道",
+    "position_names": "市議會附近,東南側,東北側,籃球場附近",
     "min_rssi": -120,
-    "update_time": "2024-09-27 16:17:00"
+    "update_time": "2024-09-26 16:25:00"
   },
   {
     "uuid": "1C5B2C23-5342-5254-5858-231225000001",
@@ -19,10 +19,23 @@
     "coordinates": "23.518423,120.440799",
     "is_complicated": 0,
     "crosswalks": "9,9,9,9",
-    "road_names": "建國路三段,長安街,建國路三段,長安街",
-    "road_widths": "寬34公尺,寬14公尺,寬34公尺,寬14公尺",
+    "road_names": "長安街,建國路三段,長安街,建國路三段",
+    "road_widths": "寬14公尺,寬34公尺,寬14公尺,寬34公尺",
     "position_names": "Toyota附近,民雄車行附近,早餐店附近,加油站附近",
     "min_rssi": -120,
-    "update_time": "2024-09-27 16:18:01"
+    "update_time": "2024-09-26 16:25:01"
+  },
+  {
+    "uuid": "1C5B2C23-5342-5254-5858-231225000001",
+    "major_high_byte": 3,
+    "city": "台北市",
+    "coordinates": "25.039083,121.569817",
+    "is_complicated": 0,
+    "crosswalks": "9,9,9,9",
+    "road_names": "松高路,松勇路,松高路,松勇路",
+    "road_widths": "寬4車道,寬2車道,寬4車道,寬2車道",
+    "position_names": "中油大樓附近,國泰世華,陶朱隱園附近,富邦銀行附近",
+    "min_rssi": -120,
+    "update_time": "2024-09-26 17:18:01"
   }
 ]

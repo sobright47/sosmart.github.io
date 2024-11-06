@@ -1,0 +1,43 @@
+[
+ {
+    "uuid": "1C5B2C23-5342-5254-5858-231225000001",
+    "major_high_byte": 1,
+    "city": "台北市",
+    "coordinates": "25.1208017,121.5228009",
+    "is_complicated": 0,
+    "crosswalks": "9,9",
+    "road_names": "致德樓,石牌路二段,(empty),石牌路二段",
+    "road_widths": "(empty),寬2車道,(empty),寬2車道",
+    "position_names": "致德樓對面,致德樓門口",
+    "min_rssi": -120,
+    "update_time": "2024-11-06 10:00:00"
+  }
+,
+ {
+    "uuid": "1C5B2C23-5342-5254-5858-231225000001",
+    "major_high_byte": 2,
+    "city": "台北市",
+    "coordinates": "25.1208017,121.5228009",
+    "is_complicated": 0,
+    "crosswalks": "9,9,9,9",
+    "road_names": "身障重建中心,石牌路二段,(empty),石牌路二段",
+    "road_widths": "(empty),寬2車道, (empty),寬2車道",
+    "position_names": "身障重建中心對面,身障重建中心門口,身障重建中心門口,身障重建中心對面",
+    "min_rssi": -120,
+    "update_time": "2024-11-06 10:00:00"
+  }
+,
+ {
+    "uuid": "1C5B2C23-5342-5254-5858-231225000001",
+    "major_high_byte": 3,
+    "city": "台北市",
+    "coordinates": "25.1187165,121.5199444",
+    "is_complicated": 0,
+    "crosswalks": "9,9,9",
+    "road_names": "石牌路二段,(empty),石牌路二段,榮總正門",
+    "road_widths": "寬4車道,(empty),寬5車道,寬6車道",
+    "position_names": "停車場附近,榮總正門入口,榮總正門出口",
+    "min_rssi": -120,
+    "update_time": "2024-11-06 10:00:00"
+  }
+]

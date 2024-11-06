@@ -41,17 +41,18 @@
     "update_time": "2024-11-06 10:00:00"
   }
  ,
-  {
+ {
     "uuid": "1C5B2C23-5342-5254-5858-241106000001",
     "major_high_byte": 10,
     "city": "台北市",
     "coordinates": "25.115917,121.5116142",
-    "is_complicated": 0,
-    "crosswalks": "9,9,9",
+    "is_complicated": 1,
+    "crosswalks": "9,12,6",
     "road_names": "(empty),致遠二路,石牌路一段39巷80弄,致遠二路",
     "road_widths": "(empty),寬2車道,寬2車道,寬2車道",
     "position_names": "石牌國小附近,早餐店附近,補習班附近",
     "min_rssi": -120,
-    "update_time": "2024-11-06 10:02:00"
+    "update_time": "2024-11-06 10:03:00"
   }
+
 ]

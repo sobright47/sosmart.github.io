@@ -18,7 +18,7 @@
     "major_high_byte": 2,
     "city": "台北市",
     "coordinates": "25.1208017,121.5228009",
-    "is_complicated": 0,
+    "is_complicated": 1,
     "crosswalks": "6,3",
     "road_names": "致德樓,石牌路二段,(empty),石牌路二段",
     "road_widths": "(empty),寬2車道,(empty),寬2車道",

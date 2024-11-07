@@ -19,12 +19,12 @@
     "city": "台北市",
     "coordinates": "25.1208017,121.5228009",
     "is_complicated": 0,
-    "crosswalks": "9,9",
+    "crosswalks": "6,3",
     "road_names": "致德樓,石牌路二段,(empty),石牌路二段",
     "road_widths": "(empty),寬2車道,(empty),寬2車道",
     "position_names": "致德樓對面,致德樓門口",
     "min_rssi": -120,
-    "update_time": "2024-11-06 10:00:00"
+    "update_time": "2024-11-06 12:00:00"
   }
 ,
  {

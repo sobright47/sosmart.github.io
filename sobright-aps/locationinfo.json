@@ -1,0 +1,141 @@
+[
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":1,
+   "city":"台北市",
+   "coordinates":"25.1208017,121.5228009",
+   "is_complicated":1,
+   "crosswalks":"6,3,9,12",
+   "road_names":"身障重建中心,石牌路二段,(empty),石牌路二段",
+   "road_widths":"(empty),寬2車道,(empty),寬2車道",
+   "position_names":"身障重建中心對面,身障重建中心門口,身障重建中心門口,身障重建中心對面",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+    "uuid": "1C5B2C23-5342-5254-5858-241106000001",
+    "major_high_byte": 2,
+    "city": "台北市",
+    "coordinates": "25.1208017,121.5228009",
+    "is_complicated":1,
+    "crosswalks": "6,3",
+    "road_names": "致德樓,石牌路二段,(empty),石牌路二段",
+    "road_widths": "(empty),寬2車道,(empty),寬2車道",
+    "position_names": "致德樓對面,致德樓門口",
+    "min_rssi": -120,
+    "update_time": "2024-11-06 12:05:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":3,
+   "city":"台北市",
+   "coordinates":"25.1187165,121.5199444",
+   "is_complicated":1,
+   "crosswalks":"3,9,12",
+   "road_names":"石牌路二段,(empty),石牌路二段,榮總正門",
+   "road_widths":"寬4車道,(empty),寬5車道,寬6車道",
+   "position_names":"停車場附近,榮總正門入口,榮總正門出口",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+ ,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":4,
+   "city":"台北市",
+   "coordinates":"25.118802,121.5188375",
+   "is_complicated":1,
+   "crosswalks":"6,6,3,9,12,12,6",
+   "road_names":"石牌路二段,晨映大道,立農街二段-石牌路二段,(empty)",
+   "road_widths":"寬4車道,(empty),寬5車道,(empty)",
+   "position_names":"健康大學附近,健康大學附近,健康大學附近,榮總側,榮總第三門診附近,維康藥局附近,維康藥局附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:01:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":5,
+   "city":"台北市",
+   "coordinates":"25.1180988,121.5175165",
+   "is_complicated":1,
+   "crosswalks":"3,9,12,6",
+   "road_names":"石牌路二段,石牌路二段130巷,石牌路二段,石牌路二段113巷",
+   "road_widths":"寬4車道,寬2車道,寬4車道,寬2車道",
+   "position_names":"水療中心附近,圖書館附近,健康服務中心附近,麥當勞附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":6,
+   "city":"台北市",
+   "coordinates":"25.11672,121.5161759",
+   "is_complicated":1,
+   "crosswalks":"6,3,9,12",
+   "road_names":"裕民一路,石牌路二段,石牌路二段75巷,石牌路二段",
+   "road_widths":"寬2車道,寬4車道,寬2車道,寬4車道",
+   "position_names":"造型沙龍店附近,屈臣氏附近,統一超商附近,火鍋店附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":7,
+   "city":"台北市",
+   "coordinates":"25.1144875,121.5134466",
+   "is_complicated":1,
+   "crosswalks":"12,6,3,9",
+   "road_names":"石牌路一段,石牌路一段166巷,石牌路一段,(empty)",
+   "road_widths":"寬4車道,寬2車道,寬4車道,(empty)",
+   "position_names":"石牌國小附近,飲料店附近,服飾店附近,石牌國小附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":8,
+   "city":"台北市",
+   "coordinates":"25.1140466,121.512192",
+   "is_complicated":1,
+   "crosswalks":"12,6,3,9",
+   "road_names":"石牌路一段,致遠一路二段,石牌路一段,致遠二路",
+   "road_widths":"寬4車道,寬2車道,寬4車道,寬2車道",
+   "position_names":"通訊行附近,陽信銀行附近,牛排店附近,石牌國小附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":9,
+   "city":"台北市",
+   "coordinates":"25.1153053,121.5116243",
+   "is_complicated":1,
+   "crosswalks":"3,9,12,6",
+   "road_names":"(empty),致遠二路,實踐街,致遠二路",
+   "road_widths":"(empty),寬2車道,寬2車道,寬2車道",
+   "position_names":"石牌國小附近,石牌國小附近,書局附近,補習班附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":10,
+   "city":"台北市",
+   "coordinates":"25.115917,121.5116142",
+   "is_complicated":1,
+   "crosswalks":"9,12,6",
+   "road_names":"(empty),致遠二路,石牌路一段39巷80弄,致遠二路",
+   "road_widths":"(empty),寬2車道,寬2車道,寬2車道",
+   "position_names":"石牌國小附近,早餐店附近,補習班附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+]

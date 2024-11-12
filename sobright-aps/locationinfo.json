@@ -138,4 +138,18 @@
    "min_rssi":-120,
    "update_time":"2024-11-06 11:00:00"
   }
+ ,
+  {
+   "uuid": "1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte": 241,
+   "city": "台北市",
+   "coordinates": "25.039083,121.569817",
+   "is_complicated": 1,
+   "crosswalks": "9,12,6,3",
+   "road_names": "松高路,松勇路,松高路,松勇路",
+   "road_widths": "寬4車道,寬2車道,寬4車道,寬2車道",
+   "position_names": "中油大樓附近,國泰世華附近,陶朱隱園附近,富邦銀行附近",
+   "min_rssi": -120,
+   "update_time": "2024-11-06 12:00:00"
+ }
 ]

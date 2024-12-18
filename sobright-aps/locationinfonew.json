@@ -60,13 +60,13 @@
    "major_high_byte":5,
    "city":"台北市",
    "coordinates":"25.1180988,121.5175165",
-   "is_complicated":1,
+   "is_complicated":2,
    "crosswalks":"3@12,9@13,12@13,6@12",
    "road_names":"石牌路二段,石牌路二段130巷,石牌路二段113巷",
    "road_widths":"寬4車道,寬2車道,寬2車道",
    "position_names":"水療中心附近,圖書館附近,健康服務中心附近,麥當勞附近",
    "min_rssi":-120,
-   "update_time":"2024-11-06 11:00:00"
+   "update_time":"2024-12-18 15:00:00"
   }
 ,
   {

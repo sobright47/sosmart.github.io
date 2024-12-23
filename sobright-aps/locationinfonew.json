@@ -146,8 +146,8 @@
    "coordinates": "25.039083,121.569817",
    "controller_state": 18,
    "crosswalks": "12@12,6@12,3@12,9@12",
-   "road_names": "松勇路,松高路",
-   "road_widths": "寬2車道,寬4車道",
+   "road_names": "松高路,松勇路",
+   "road_widths": "寬4車道,寬2車道",
    "position_names": "中油大樓附近,國泰世華附近,陶朱隱園附近,富邦銀行附近",
    "min_rssi": -120,
    "update_time": "2024-12-23 12:15:00"

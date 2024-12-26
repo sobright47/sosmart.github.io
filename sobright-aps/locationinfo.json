@@ -148,7 +148,7 @@
   "crosswalks":"9@13,12@13,6@12,3@12,9@13,6@12",
   "road_names":"民權東路3段,民權東3段60巷,民權東路3段39巷",
   "road_widths":"寬7車道,寬2車道,寬2車道",
-  "position_names":"LANEW鞋店附近,富邦銀行附近,合作金庫附近,全家超商附近,(empty),(empty)",
+  "position_names":"LANEW鞋店附近,富邦銀行附近,合作金庫附近,全家超商附近,,",
   "min_rssi":-120,
   "update_time":"2024-12-26 10:03:00"  
  }
@@ -172,7 +172,7 @@
    "major_high_byte": 241,
    "city": "台北市",
    "coordinates": "25.039083,121.569817",
-   "controller_state": 18,
+   "controller_state": 16,
    "crosswalks": "12@12,6@12,3@12,9@12",
    "road_names": "松高路,松勇路",
    "road_widths": "寬4車道,寬2車道",

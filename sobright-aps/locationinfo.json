@@ -138,7 +138,21 @@
    "min_rssi":-120,
    "update_time":"2024-12-13 16:00:00"
   }
-  ,
+ ,
+  {
+  "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+  "major_high_byte":11,
+  "city":"台北市",
+  "coordinates":"25.0623782,121.5425211",
+  "controller_state":16,
+  "crosswalks":"9@13,12@13,6@12,3@12,9@13,6@12",
+  "road_names":"民權東路3段,民權東3段60巷,民權東路3段39巷",
+  "road_widths":"寬7車道,寬2車道,寬2車道",
+  "position_names":"LANEW鞋店附近,富邦銀行附近,合作金庫附近,全家超商附近,(empty),(empty)",
+  "min_rssi":-120,
+  "update_time":"2024-12-26 10:03:00"  
+  }
+,
  {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":201,
@@ -158,12 +172,12 @@
    "major_high_byte": 241,
    "city": "台北市",
    "coordinates": "25.039083,121.569817",
-   "controller_state": 16,
+   "controller_state": 18,
    "crosswalks": "12@12,6@12,3@12,9@12",
    "road_names": "松高路,松勇路",
    "road_widths": "寬4車道,寬2車道",
    "position_names": "中油大樓附近,國泰世華附近,陶朱隱園附近,富邦銀行附近",
    "min_rssi": -120,
-   "update_time": "2024-12-23 17:03:00"
+   "update_time": "2024-12-26 15:55:00"
  }
 ]

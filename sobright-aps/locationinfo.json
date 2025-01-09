@@ -172,7 +172,7 @@
    "major_high_byte": 241,
    "city": "台北市",
    "coordinates": "25.039083,121.569817",
-   "controller_state": 16,
+   "controller_state": 0,
    "crosswalks": "12@12,6@12,3@12,9@12",
    "road_names": "松高路,松勇路",
    "road_widths": "寬4車道,寬2車道",

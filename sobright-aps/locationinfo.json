@@ -168,16 +168,16 @@
   }
  ,
   {
-   "uuid": "1C5B2C23-5342-5254-5858-241106000001",
-   "major_high_byte": 241,
-   "city": "台北市",
-   "coordinates": "25.039083,121.569817",
-   "controller_state": 16,
-   "crosswalks": "12@12,6@12,3@12,9@12",
-   "road_names": "松高路,松勇路",
-   "road_widths": "寬4車道,寬2車道",
-   "position_names": "中油大樓附近,國泰世華附近,陶朱隱園附近,富邦銀行附近",
-   "min_rssi": -120,
-   "update_time": "2025-01-09 14:53:00"
- }
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":241,
+   "city":"高雄市",
+   "coordinates":"22.630691,120.310286",
+   "controller_state":16,
+   "crosswalks":"3@12,9@12,12@12,6@12",
+   "road_names":"中正三路,錦田路",
+   "road_widths":"寬6車道,寬2車道",
+   "position_names":"加油站附近,信義國小附近,區公所附近,交通局附近",
+   "min_rssi":-120,
+   "update_time":"2025-01-13 13:03:00"  
+  }
 ]

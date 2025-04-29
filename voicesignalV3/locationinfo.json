@@ -1,41 +1,225 @@
 [
-  {
-    "uuid": "1C5B2C23-5342-5254-5858-231225000001",
-    "major_high_byte": 1,
-    "city": "台南市",
-    "coordinates": "22.990998,120.187082",
-    "is_complicated": 0,
-    "crosswalks": "9,9,9,9",
-    "road_names": "南島路,中華西路二段,南島路,中華西路二段",
-    "road_widths": "寬4車道,寬6車道,寬4車道,寬6車道",
-    "position_names": "市議會附近,東南側,東北側,籃球場附近",
-    "min_rssi": -120,
-    "update_time": "2024-09-27 10:53:00"
-  },
-  {
-    "uuid": "1C5B2C23-5342-5254-5858-231225000001",
-    "major_high_byte": 2,
-    "city": "嘉義縣",
-    "coordinates": "23.518423,120.440799",
-    "is_complicated": 0,
-    "crosswalks": "9,9,9,9",
-    "road_names": "長安街,建國路三段,長安街,建國路三段",
-    "road_widths": "寬14公尺,寬34公尺,寬14公尺,寬34公尺",
-    "position_names": "Toyota附近,民雄車行附近,早餐店附近,加油站附近",
-    "min_rssi": -120,
-    "update_time": "2024-09-27 10:52:01"
-  },
-  {
-    "uuid": "1C5B2C23-5342-5254-5858-231225000001",
-    "major_high_byte": 3,
-    "city": "台北市",
-    "coordinates": "25.039083,121.569817",
-    "is_complicated": 1,
-    "crosswalks": "9,12,6,3",
-    "road_names": "松高路,松勇路,松高路,松勇路",
-    "road_widths": "寬4車道,寬2車道,寬4車道,寬2車道",
-    "position_names": "中油大樓附近,國泰世華附近,陶朱隱園附近,富邦銀行附近",
-    "min_rssi": -120,
-    "update_time": "2024-09-27 10:52:01"
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-534B54455854",
+   "major_high_byte":1,
+   "city":"zh-TW",
+   "coordinates":"25.1208017,121.5228009",
+   "controller_state":0,
+   "crosswalks":"a,e,g,j,r,p,s,x,A,E,H,I,M,N,S,Y",
+   "road_names":"(empty),(empty)",
+   "road_widths":"(empty),(empty)",
+   "position_names":"全部,東西向,綠燈,綠閃,紅燈,行人,南北向,此路口沒有延長綠燈秒數功能,路口閃光,目前沒有秒數資訊,即將變紅燈,輕觸兩下提供行人綠時間 輕觸兩下後按住提供位置資訊,輕觸兩下延長行人綠燈秒數,附近沒有行人綠燈語音服務,秒,您位於",
+   "min_rssi":-120,
+   "update_time":"2025-04-29 14:37:00"
   }
+  ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-534B54455854",
+   "major_high_byte":2,
+   "city":"zh-TW",
+   "coordinates":"25.1208017,121.5228009",
+   "controller_state":0,
+   "crosswalks":"A,E,H,I,M,N,S,Y",
+   "road_names":"(empty),(empty)",
+   "road_widths":"(empty),(empty)",
+   "position_names":"路口閃光,目前沒有秒數資訊,即將變紅燈,輕觸兩下提供行人綠時間 輕觸兩下後按住提供位置資訊,輕觸兩下延長行人綠燈秒數,附近沒有行人綠燈語音服務,秒,您位於",
+   "min_rssi":-120,
+   "update_time":"2025-04-29 14:37:00"
+  }
+  ,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":1,
+   "city":"台北市",
+   "coordinates":"25.1208017,121.5228009",
+   "controller_state":0,
+   "crosswalks":"6@02,3@12,9@12,12@02",
+   "road_names":"身障重建中心,石牌路二段",
+   "road_widths":"(empty),寬2車道",
+   "position_names":"身障重建中心對面,身障重建中心門口,身障重建中心門口,身障重建中心對面",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+    "uuid": "1C5B2C23-5342-5254-5858-241106000001",
+    "major_high_byte": 2,
+    "city": "台北市",
+    "coordinates": "25.1208017,121.5228009",
+    "controller_state":0,
+    "crosswalks": "6@02,3@12",
+    "road_names": "致德樓,石牌路二段",
+    "road_widths": "(empty),寬2車道",
+    "position_names": "致德樓對面,致德樓門口",
+    "min_rssi": -120,
+    "update_time": "2024-11-06 12:05:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":3,
+   "city":"台北市",
+   "coordinates":"25.1187165,121.5199444",
+   "controller_state":2,
+   "crosswalks":"3@10,9@13,12@23",
+   "road_names":"石牌路二段,石牌路二段,榮總正門",
+   "road_widths":"寬4車道,寬5車道,寬6車道",
+   "position_names":"停車場附近,榮總正門入口,榮總正門出口",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+ ,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":4,
+   "city":"台北市",
+   "coordinates":"25.118802,121.5188375",
+   "controller_state":0,
+   "crosswalks":"6@32,6@12,3@12,9@10,12@40,12@40,6@30",
+   "road_names":"石牌路二段,晨映大道,石牌路二段,立農街二段",
+   "road_widths":"寬4車道,(empty),寬4車道,寬1車道",
+   "position_names":"健康大學附近,健康大學附近,健康大學附近,榮總側,榮總第三門診附近,維康藥局附近,維康藥局附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:01:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":5,
+   "city":"台北市",
+   "coordinates":"25.1180988,121.5175165",
+   "controller_state":2,
+   "crosswalks":"3@12,9@13,12@13,6@12",
+   "road_names":"石牌路二段,石牌路二段130巷,石牌路二段113巷",
+   "road_widths":"寬4車道,寬2車道,寬2車道",
+   "position_names":"水療中心附近,圖書館附近,健康服務中心附近,麥當勞附近",
+   "min_rssi":-120,
+   "update_time":"2024-12-18 15:00:00"
+  }
+,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":6,
+   "city":"台北市",
+   "coordinates":"25.11672,121.5161759",
+   "controller_state":0,
+   "crosswalks":"6@32,3@12,9@12,12@32",
+   "road_names":"裕民一路,石牌路二段,石牌路二段75巷",
+   "road_widths":"寬2車道,寬4車道,寬2車道",
+   "position_names":"造型沙龍店附近,屈臣氏附近,統一超商附近,火鍋店附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":7,
+   "city":"台北市",
+   "coordinates":"25.1144875,121.5134466",
+   "controller_state":0,
+   "crosswalks":"12@10,6@12,3@12,9@10",
+   "road_names":"石牌路一段,石牌路一段166巷",
+   "road_widths":"寬4車道,寬2車道",
+   "position_names":"石牌國小附近,飲料店附近,服飾店附近,石牌國小附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":8,
+   "city":"台北市",
+   "coordinates":"25.1140466,121.512192",
+   "controller_state":0,
+   "crosswalks":"12@13,6@12,3@12,9@13",
+   "road_names":"石牌路一段,致遠一路二段,致遠二路",
+   "road_widths":"寬4車道,寬2車道,寬2車道",
+   "position_names":"通訊行附近,陽信銀行附近,牛排店附近,石牌國小附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":9,
+   "city":"台北市",
+   "coordinates":"25.1153053,121.5116243",
+   "controller_state":0,
+   "crosswalks":"3@01,9@01,12@21,6@21",
+   "road_names":"致遠二路,實踐街",
+   "road_widths":"寬2車道,寬2車道",
+   "position_names":"石牌國小附近,石牌國小附近,書局附近,補習班附近",
+   "min_rssi":-120,
+   "update_time":"2024-11-06 11:00:00"
+  }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":10,
+   "city":"台北市",
+   "coordinates":"25.115917,121.5116142",
+   "controller_state":0,
+   "crosswalks":"6@21,6@21,9@01,12@31,6@31",
+   "road_names" :"致遠二路,致遠二路71巷,石牌路一段39巷80弄",
+   "road_widths":"寬2車道,寬2車道,寬2車道",
+   "position_names":"補習班附近,影印店附近,石牌國小附近,早餐店附近,補習班附近",
+   "min_rssi":-120,
+   "update_time":"2024-12-13 16:00:00"
+ }
+,
+ {
+  "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+  "major_high_byte":11,
+  "city":"台北市",
+  "coordinates":"25.0623782,121.5425211",
+  "controller_state":0,
+  "crosswalks":"9@13,12@13,6@12,3@12,9@13,6@12",
+  "road_names":"民權東路3段,民權東3段60巷,民權東路3段39巷",
+  "road_widths":"寬7車道,寬2車道,寬2車道",
+  "position_names":"LANEW鞋店附近,富邦銀行附近,合作金庫附近,全家超商附近,(empty),(empty)",
+  "min_rssi":-120,
+  "update_time":"2025-04-02 17:21:00"  
+ }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":201,
+   "city":"台南市",
+   "coordinates":"22.990998,120.187082",
+   "controller_state":16,
+   "crosswalks":"9@12,3@12,6@12,12@12,12@12,9@12,9@12,9@12",
+   "road_names" :"南島路,中華西路二段",
+   "road_widths":"寬4車道,寬6車道",
+   "position_names":"市議會附近,正生公園附近,正生公園附近,籃球場附近,籃球場附近,市議會附近,市議會附近,市議會附近",
+   "min_rssi":-120,
+   "update_time":"2025-03-26 10:12:00"
+  }
+ ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":241,
+   "city":"台南市",
+   "coordinates":"22.990998,120.187082",
+   "controller_state":16,
+   "crosswalks":"9@12,3@12,6@12,12@12,12@12,9@12",
+   "road_names" :"南島路,中華西路二段",
+   "road_widths":"寬4車道,寬6車道",
+   "position_names":"市議會附近,正生公園附近,正生公園附近,籃球場附近,籃球場附近,市議會附近",
+   "min_rssi":-120,
+   "update_time":"2025-03-06 09:00:00"
+  }
+ ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":242,
+   "city":"台北市",
+   "coordinates":"25.039083,121.569817",
+   "controller_state":16,
+   "crosswalks":"12@12,6@12,3@12,9@12",
+   "road_names":"松高路,松勇路",
+   "road_widths":"寬4車道,寬2車道",
+   "position_names":"中油大樓附近,國泰世華附近,陶朱隱園附近,富邦銀行附近",
+   "min_rssi":-120,
+   "update_time":"2025-04-02 16:25:00"  
+   }
 ]

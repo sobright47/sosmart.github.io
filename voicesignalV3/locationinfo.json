@@ -5,12 +5,12 @@
    "city":"zh-TW",
    "coordinates":"25.1208017,121.5228009",
    "controller_state":0,
-   "crosswalks":"a,e,g,j,r,p,s,x,A,E,H,I,M,N,S,Y",
-   "road_names":"(empty),(empty)",
+   "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
+   "road_names":"a,e,g,j,r,p,s,x",
    "road_widths":"(empty),(empty)",
-   "position_names":"全部,東西向,綠燈,綠閃,紅燈,行人,南北向,此路口沒有延長綠燈秒數功能,路口閃光,目前沒有秒數資訊,即將變紅燈,輕觸兩下提供行人綠時間 輕觸兩下後按住提供位置資訊,輕觸兩下延長行人綠燈秒數,附近沒有行人綠燈語音服務,秒,您位於",
+   "position_names":"全部,東西向,綠燈,綠閃,紅燈,行人,南北向,此路口沒有延長綠燈秒數功能",
    "min_rssi":-120,
-   "update_time":"2025-04-29 14:37:00"
+   "update_time":"2025-04-29 15:00:00"
   }
   ,
   {
@@ -19,12 +19,12 @@
    "city":"zh-TW",
    "coordinates":"25.1208017,121.5228009",
    "controller_state":0,
-   "crosswalks":"A,E,H,I,M,N,S,Y",
-   "road_names":"(empty),(empty)",
+   "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
+   "road_names":"A,E,H,I,M,N,S,Y",
    "road_widths":"(empty),(empty)",
    "position_names":"路口閃光,目前沒有秒數資訊,即將變紅燈,輕觸兩下提供行人綠時間 輕觸兩下後按住提供位置資訊,輕觸兩下延長行人綠燈秒數,附近沒有行人綠燈語音服務,秒,您位於",
    "min_rssi":-120,
-   "update_time":"2025-04-29 14:37:00"
+   "update_time":"2025-04-29 15:00:00"
   }
   ,
  {

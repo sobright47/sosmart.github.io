@@ -36,7 +36,7 @@
    "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
    "road_names":"a,e,g,j,r,p,s,x",
    "road_widths":"(empty),(empty)",
-   "position_names":"All ,East-West direction ,Green light ,Flashing green light ,Red light ,Pedestrian,North-South direction ,This crossing does not support extended green time ",
+   "position_names":"All ,East-West direction ,Green light ,Flashing green light ,Red light ,Pedestrian ,North-South direction ,This crossing does not support extended green time ",
    "min_rssi":-120,
    "update_time":"2025-05-12 16:36:00"
   }

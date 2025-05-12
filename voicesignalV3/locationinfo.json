@@ -36,9 +36,9 @@
    "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
    "road_names":"a,e,g,j,r,p,s,x",
    "road_widths":"(empty),(empty)",
-   "position_names":"All,East-West direction,Green light,Flashing green light,Red light,Pedestrian,North-South direction,This crossing does not support extended green time",
+   "position_names":"All ,East-West direction ,Green light ,Flashing green light ,Red light ,Pedestrian,North-South direction ,This crossing does not support extended green time ",
    "min_rssi":-120,
-   "update_time":"2025-05-12 16:18:00"
+   "update_time":"2025-05-12 16:36:00"
   }
   ,
   {
@@ -50,9 +50,9 @@
    "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
    "road_names":"A,E,H,I,M,N,S,Y",
    "road_widths":"(empty),(empty)",
-   "position_names":"Flashing intersection,No time information available,About to turn red,Double tap to get pedestrian green time Double tap then hold to get location information,Double tap to extend pedestrian green time,No pedestrian green light voice service nearby,seconds,You are near",
+   "position_names":"Flashing intersection ,No time information available ,About to turn red ,Double tap to get pedestrian green time Double tap then hold to get location information ,Double tap to extend pedestrian green time ,No pedestrian green light voice service nearby ,seconds ,You are near ",
    "min_rssi":-120,
-   "update_time":"2025-05-12 16:18:00"
+   "update_time":"2025-05-12 16:36:00"
   }
  ,
   {

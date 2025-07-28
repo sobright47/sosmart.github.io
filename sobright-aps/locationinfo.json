@@ -154,6 +154,62 @@
  }
 ,
  {
+  "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+  "major_high_byte":12,
+  "city":"高雄市",
+  "coordinates":"22.628754,120.318636",
+  "controller_state":0,
+  "crosswalks":"3@12,9@13,12@13,6@12",
+  "road_names" :"五福一路,和平一路,和平一路",
+  "road_widths":"寬5車道,寬4車道,寬5車道",
+  "position_names":"停車場附近,東北側,身心診所附近,文化中心附近",
+  "min_rssi":-120,
+  "update_time":"2025-07-25 09:00:00"
+ }
+,
+ {
+  "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+  "major_high_byte":13,
+  "city":"高雄市",
+  "coordinates":"22.626868,120.319367",
+  "controller_state":0,
+  "crosswalks":"3@12,9@12,12@32,6@32",
+  "road_names" :"同慶路,和平一路,文化中心",
+  "road_widths":"寬2車道,寬4車道,(empty)",
+  "position_names":"高師大附近,全家便利商店附近,文化中心附近,文化中心附近",
+  "min_rssi":-120,
+  "update_time":"2025-07-25 09:00:00"
+ }
+,
+ {
+  "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+  "major_high_byte":14,
+  "city":"高雄市",
+  "coordinates":"22.625445,120.319912",
+  "controller_state":0,
+  "crosswalks":"3@12,9@12,12@32,6@32",
+  "road_names" :"高師大,和平一路,文化中心",
+  "road_widths":"(empty),寬4車道,(empty)",
+  "position_names":"高師大附近,高師大附近,文化中心附近,文化中心附近",
+  "min_rssi":-120,
+  "update_time":"2025-07-25 09:00:00"
+ }
+,
+ {
+  "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+  "major_high_byte":15,
+  "city":"高雄市",
+  "coordinates":"22.624967,120.320127",
+  "controller_state":0,
+  "crosswalks":"3@12,9@14,12@34,6@32",
+  "road_names" :"高師大,和平一路,林德街,和平一路",
+  "road_widths":"(empty),寬4車道,寬3車道,寬5車道",
+  "position_names":"高師大附近,高師大附近,文化中心附近,牙醫診所附近",
+  "min_rssi":-120,
+  "update_time":"2025-07-25 09:00:00"
+ }
+, 
+ {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":201,
    "city":"台南市",

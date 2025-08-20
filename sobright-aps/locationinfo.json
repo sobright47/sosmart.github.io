@@ -226,15 +226,15 @@
   {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":241,
-   "city":"台北市",
-   "coordinates":"25.039083,121.569817",
+   "city":"雲林縣",
+   "coordinates":"23.695345,120.527669",
    "controller_state":16,
-   "crosswalks":"12@12,6@12,3@12,9@12",
-   "road_names":"松高路,松勇路",
+   "crosswalks":" 12@12,6@12,3@12,9@12",
+   "road_names":"大學路三段,府文路",
    "road_widths":"寬4車道,寬2車道",
-   "position_names":"中油大樓附近,國泰世華附近,陶朱隱園附近,富邦銀行附近",
+   "position_names":"體育館附近,萊爾富便利商店附近,龍潭鄰里公園附近,縣議會附近",
    "min_rssi":-120,
-   "update_time":"2025-08-11 13:25:00"  
+   "update_time":"2025-08-20 09:06:00"  
    }
  ,
   {

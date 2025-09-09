@@ -211,6 +211,20 @@
 , 
  {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":16,
+   "city":"台北市",
+   "coordinates":"25.065831,121.516122",
+   "controller_state":0,
+   "crosswalks":"3@12,9@12,12@12,6@12",  
+   "road_names":"昌吉街,大龍街",
+   "road_widths":"寬2車道,寬2車道",
+   "position_names":"健康服務中心附近,手搖店附近,區公所附近,統一超商附近",
+   "min_rssi":-120,
+   "update_time":"2025-09-09 11:00:00"
+ }
+ ,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":201,
    "city":"台南市",
    "coordinates":"22.990998,120.187082",

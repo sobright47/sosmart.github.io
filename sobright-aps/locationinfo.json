@@ -225,7 +225,7 @@
  ,
  {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
-   "major_high_byte":201,
+   "major_high_byte":114,
    "city":"台南市",
    "coordinates":"22.981052,120.222678",
    "controller_state":0,
@@ -234,7 +234,7 @@
    "road_widths":"寬4車道,寬2車道",
    "position_names":"忠孝國中附近,補習班附近,補習班附近,設計學堂附近",
    "min_rssi":-120,
-   "update_time":"2025-09-30 09:00:00"
+   "update_time":"2025-09-30 16:00:00"
   }
  ,
   {

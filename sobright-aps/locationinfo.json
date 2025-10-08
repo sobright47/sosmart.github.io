@@ -237,6 +237,34 @@
    "update_time":"2025-10-03 16:00:00"
   }
  ,
+   {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":39,
+   "city":"嘉義縣",
+   "coordinates":"23.461349,120.285567",
+   "controller_state":6,
+   "crosswalks":"3@12,9@12,12@12,6@12",
+   "road_names":"嘉朴公路,朴子七路",
+   "road_widths":"寬6車道,寬4車道",
+   "position_names":"統一超商附近,長庚醫院附近,長庚醫院附近,西南側",
+   "min_rssi":-120,
+   "update_time":"2025-10-07 17:00:00"  
+  }
+ ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":113,
+   "city":"嘉義縣",
+   "coordinates":"23.461349,120.285567",
+   "controller_state":6,
+   "crosswalks":"3@12,9@12,12@12,6@12",
+   "road_names":"祥和一路,太保一路",
+   "road_widths":"寬4車道,寬2車道",
+   "position_names":"台灣銀行附近,東北側,西北側,縣政府附近",
+   "min_rssi":-120,
+   "update_time":"2025-10-07 17:00:00"  
+  }
+ ,
   {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":241,

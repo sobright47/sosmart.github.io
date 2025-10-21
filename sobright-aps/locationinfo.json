@@ -1,4 +1,88 @@
 [
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-534B54455854",
+   "major_high_byte":1,
+   "city":"zh-TW",
+   "coordinates":"0.22,30",
+   "controller_state":0,
+   "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
+   "road_names":"a,e,g,j,r,p,s,x",
+   "road_widths":"(empty),(empty)",
+   "position_names":"全部,東西向,綠燈,綠閃,紅燈,行人,南北向,此路口沒有延長綠燈秒數功能",
+   "min_rssi":-120,
+   "update_time":"2025-05-13 16:29:00"
+  }
+  ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-534B54455854",
+   "major_high_byte":2,
+   "city":"zh-TW",
+   "coordinates":"0.22,30",
+   "controller_state":0,
+   "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
+   "road_names":"A,E,H,I,M,N,S,Y",
+   "road_widths":"(empty),(empty)",
+   "position_names":"路口閃光,目前沒有秒數資訊,即將變紅燈,輕觸兩下提供行人綠時間 輕觸兩下後按住提供位置資訊,輕觸兩下延長行人綠燈秒數,附近沒有有聲號誌,秒,您位於",
+   "min_rssi":-120,
+   "update_time":"2025-05-13 16:29:00"
+  }
+  ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-534B54455854",
+   "major_high_byte":3,
+   "city":"en-US",
+   "coordinates":"0.05,25",
+   "controller_state":0,
+   "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
+   "road_names":"a,e,g,j,r,p,s,x",
+   "road_widths":"(empty),(empty)",
+   "position_names":"All ,East-West direction ,Green light ,Flashing green light ,Red light ,Pedestrian ,North-South direction ,This crossing does not support extended green time ",
+   "min_rssi":-120,
+   "update_time":"2025-05-13 16:29:00"
+  }
+  ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-534B54455854",
+   "major_high_byte":4,
+   "city":"en-US",
+   "coordinates":"0.05,25",
+   "controller_state":0,
+   "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
+   "road_names":"A,E,H,I,M,N,S,Y",
+   "road_widths":"(empty),(empty)",
+   "position_names":"Flashing intersection ,No time information available ,About to turn red ,Double tap to get pedestrian green time Double tap then hold to get location information ,Double tap to extend pedestrian green time ,No accessible pedestrian signals nearby ,seconds ,You are near ",
+   "min_rssi":-120,
+   "update_time":"2025-05-13 16:29:00"
+  }
+  ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-534B54455854",
+   "major_high_byte":5,
+   "city":"es-419",
+   "coordinates":"0.05,25",
+   "controller_state":0,
+   "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
+   "road_names":"a,e,g,j,r,p,s,x",
+   "road_widths":"(empty),(empty)",
+   "position_names":"Todo ,Dirección este-oeste ,Luz verde ,Luz verde intermitente ,Luz roja ,Peatón ,Dirección norte-sur ,Esta intersección no admite extensión del tiempo de luz verde ",
+   "min_rssi":-120,
+   "update_time":"2025-05-13 16:29:00"
+  }
+  ,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-534B54455854",
+   "major_high_byte":6,
+   "city":"es-419",
+   "coordinates":"0.05,25",
+   "controller_state":0,
+   "crosswalks":"9@00,9@00,9@00,9@00,9@00,9@00,9@00,9@00",
+   "road_names":"A,E,H,I,M,N,S,Y",
+   "road_widths":"(empty),(empty)",
+   "position_names":"Cruce intermitente ,No hay información de tiempo disponible ,Está a punto de cambiar a rojo ,Toque dos veces para obtener el tiempo de luz verde peatonal Toque dos veces y mantenga presionado para obtener información de ubicación ,Toque dos veces para extender el tiempo de luz verde peatonal ,No hay señal de tráfico audible cerca ,segundos ,Usted está cerca ",
+   "min_rssi":-120,
+   "update_time":"2025-05-13 16:29:00"
+  }
+  ,
  {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":1,

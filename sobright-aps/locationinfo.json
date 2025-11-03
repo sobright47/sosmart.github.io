@@ -242,7 +242,7 @@
   "major_high_byte":12,
   "city":"高雄市",
   "coordinates":"22.628754,120.318636",
-  "controller_state":0,
+  "controller_state":2,
   "crosswalks":"3@12,9@13,12@13,6@12",
   "road_names" :"五福一路,和平一路,和平一路",
   "road_widths":"寬5車道,寬4車道,寬5車道",

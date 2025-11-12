@@ -309,6 +309,34 @@
  ,
  {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":22,
+   "city":"台北市",
+   "coordinates":"25.021624,121.543218",
+   "controller_state":0,
+   "crosswalks":"9@12,9@12,9@12,9@12,9@12",  
+   "road_names":"辛亥路二段,復興南路二段",
+   "road_widths":"寬10車道,寬6車道",
+   "position_names":"當鋪附近,分隔島附近,台大附近,台大附近,眼鏡行附近",
+   "min_rssi":-120,
+   "update_time":"2025-11-12 11:00:00"
+ }
+ , 
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":60
+   "city":"台北市",
+   "coordinates":"25.066017,121.513812",
+   "controller_state":0,
+   "crosswalks":"9@12,9@12,9@12,9@12",  
+   "road_names":"昌吉街,重慶北路三段",
+   "road_widths":"寬2車道,寬8車道",
+   "position_names":"伯朗咖啡店附近,中華電信附近,第一銀行附近,宜而爽附近",
+   "min_rssi":-120,
+   "update_time":"2025-11-12 11:00:00"
+ }
+,
+ {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":114,
    "city":"台南市",
    "coordinates":"22.981052,120.222678",

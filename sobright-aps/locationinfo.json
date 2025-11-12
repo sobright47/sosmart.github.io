@@ -323,7 +323,7 @@
  , 
  {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
-   "major_high_byte":60
+   "major_high_byte":60,
    "city":"台北市",
    "coordinates":"25.066017,121.513812",
    "controller_state":0,

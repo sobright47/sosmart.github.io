@@ -256,7 +256,7 @@
    "major_high_byte":241,
    "city":"台南市",
    "coordinates":"22.990998,120.187082",
-   "controller_state":16,
+   "controller_state":0,
    "crosswalks":"9@12,3@12,6@12,12@12,12@12,9@12",
    "road_names" :"南島路,中華西路二段",
    "road_widths":"寬4車道,寬6車道",
@@ -279,3 +279,4 @@
    "update_time":"2025-04-02 16:25:00"  
    }
 ]
+

@@ -382,7 +382,7 @@
    "major_high_byte":241,
    "city":"高雄市，放在高雄demo用",
    "coordinates":"22.630691,120.310286",
-   "controller_state":16,
+   "controller_state":0,
    "crosswalks":"3@12,9@12,12@12,6@12",
    "road_names":"中正三路,錦田路",
    "road_widths":"寬6車道,寬2車道",

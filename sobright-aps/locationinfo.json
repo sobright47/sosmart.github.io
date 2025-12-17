@@ -382,13 +382,13 @@
    "major_high_byte":241,
    "city":"高雄市，放在高雄demo用",
    "coordinates":"22.630691,120.310286",
-   "controller_state":16,
+   "controller_state":0,
    "crosswalks":"3@12,9@12,12@12,6@12",
    "road_names":"中正三路,錦田路",
    "road_widths":"寬6車道,寬2車道",
    "position_names":"加油站附近,信義國小附近,區公所附近,交通局附近",
    "min_rssi":-120,
-   "update_time":"2025-12-17 15:44:00"  
+   "update_time":"2025-12-17 17:25:00"  
    }
  ,
   {

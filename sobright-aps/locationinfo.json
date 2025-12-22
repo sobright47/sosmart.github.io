@@ -379,6 +379,20 @@
  ,
   {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":106,
+   "city":"嘉義縣",
+   "coordinates":"23.518511,120.440692",
+   "controller_state":0,
+   "crosswalks":"9@12,9@12",
+   "road_names" :"長安街,忠孝路",
+   "road_widths":"寬4車道,寬6車道",
+   "position_names":"西北側,東北側",
+   "min_rssi":-120,
+   "update_time":"2025-12-22 09:00:00"
+  }
+,
+  {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":241,
    "city":"高雄市，放在高雄demo用",
    "coordinates":"22.630691,120.310286",

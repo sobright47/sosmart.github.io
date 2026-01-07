@@ -438,7 +438,7 @@
    "major_high_byte":56,
    "city":"測試用",
    "coordinates":"22.630691,120.310286",
-   "controller_state":0,
+   "controller_state":16,
    "crosswalks":"9@12,9@12,12@12,6@32,9@12,12@12,6@12,6@12",
    "road_names":"測試路口1,測試路口2,測試路口3",
    "road_widths":"寬2車道,寬4車道,寬6車道",

@@ -410,13 +410,13 @@
    "major_high_byte":108,
    "city":"台東縣",
    "coordinates":"22.752342, 121.144507",
-   "controller_state":16,
+   "controller_state":0,
    "crosswalks":"9@02,9@02",
    "road_names" :"(empty),桂林北路",
    "road_widths":"(empty),寬2車道",
    "position_names":"體育館附近,社會處附近",
    "min_rssi":-120,
-   "update_time":"2026-01-12 19:05:00"
+   "update_time":"2026-01-12 19:06:00"
   }
  ,
   {

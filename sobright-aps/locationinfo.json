@@ -436,15 +436,15 @@
   {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":242,
-   "city":"基隆市",
-   "coordinates":"25.128625,121.742815",
+   "city":"高雄市",
+   "coordinates":"22.630691,120.310286",
    "controller_state":16,
-   "crosswalks":"9@12,12@12,6@12,3@12",
-   "road_names":"仁三路,愛三路",
-   "road_widths":"寬1車道,寬4車道",
-   "position_names":"廟口夜市附近,統一超商附近,華歌爾附近,彩券行附近",
+   "crosswalks":"3@12,9@12,12@12,6@12",
+   "road_names":"中正三路,錦田路",
+   "road_widths":"寬6車道,寬2車道",
+   "position_names":"加油站附近,信義國小附近,區公所附近,交通局附近",
    "min_rssi":-120,
-   "update_time":"2025-12-11 11:46:00"  
+   "update_time":"2026-01-14 09:28:00"  
    }
   ,
   {

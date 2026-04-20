@@ -422,15 +422,15 @@
   {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":241,
-   "city":"高雄市，放在高雄demo用",
-   "coordinates":"22.630691,120.310286",
+   "city":"新北市，放在誌亨demo用",
+   "coordinates":"25.015425,121.417889",
    "controller_state":16,
-   "crosswalks":"3@12,9@12,12@12,6@12",
-   "road_names":"中正三路,錦田路",
+   "crosswalks":"3@12,6@12,12@12,9@12",
+   "road_names":"三俊街,俊興街",
    "road_widths":"寬6車道,寬2車道",
-   "position_names":"加油站附近,信義國小附近,區公所附近,交通局附近",
+   "position_names":"彩券航附近,統一超商附近,小吃店附近,全家便利商店附近",
    "min_rssi":-120,
-   "update_time":"2025-12-17 17:27:00"  
+   "update_time":"2026-04-20 15:30:00"  
    }
  ,
   {

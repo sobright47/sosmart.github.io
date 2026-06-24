@@ -391,6 +391,20 @@
    "update_time":"2025-12-30 10:00:00"
   }
  ,
+   {
+   "uuid":"1C5B2C23-5342-5254-5858-241106000001",
+   "major_high_byte":104,
+   "city":"新北市",
+   "coordinates":"25.072793,121.501531",
+   "controller_state":0,
+   "crosswalks":"3@12,6@12,12@12,9@12",
+   "road_names" :"秀江街,龍濱路",
+   "road_widths":"寬2車道,寬4車道",
+   "position_names":"機車行附近,火鍋店附近,全家便利商店附近,蔬果店附近",
+   "min_rssi":-120,
+   "update_time":"2026-06-23 15:00:00"
+  }
+ , 
   {
    "uuid":"1C5B2C23-5342-5254-5858-241106000001",
    "major_high_byte":106,
